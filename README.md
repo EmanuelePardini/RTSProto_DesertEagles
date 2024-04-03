@@ -15,9 +15,8 @@ All customizable:
 - Enemy AI
   
 ## How to Use:
-0. Create a Unreal Engine project
-1. Copy Source classes and import HUD plugin
-2. Setup in Engine to build Your game
+0.Download the project
+1.Open with Unreal Engine 5.2.1
 
 ## Demonstration:
 ![DesertEagles 1](shot1.png)
