@@ -15,8 +15,8 @@ All customizable:
 - Enemy AI
   
 ## How to Use:
-0.Download the project
-1.Open with Unreal Engine 5.2.1
+- Download the project
+- Open with Unreal Engine 5.2.1
 
 ## Demonstration:
 ![DesertEagles 1](shot1.png)
